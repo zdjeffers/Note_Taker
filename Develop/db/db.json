@@ -1,6 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "id": "0233ccb7-f86d-4f95-9d14-30981c6d79af",
+      "title": "Groceries",
+      "text": "Apples\nOranges\nKiwi\nOatmeal\nCereal\nSausage\nSteak\nMilk\nJuice\n"
+    },
+    {
+      "id": "441996b5-aef7-4885-9b6c-1db4865868b8",
+      "title": "To DO List",
+      "text": "Walk the dogs\nsweep and mop\ngo to the grocery store\ncall Mom\n"
+    },
+    {
+      "id": "e0adfc3e-00f3-4115-83b8-ff3b3cbc7bd5",
+      "title": "My Contact Info:",
+      "text": "1234 Luxury Lane\nSome City, US 12345\n\ncell: 512-555-5555\nwork: 512-555-5000\n\nemail: work@getsdone.com"
     }
-]
+  ]
